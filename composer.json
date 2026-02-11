@@ -1,0 +1,14 @@
+{
+    "name": "etudiant/2fils-en-aiguilles",
+    "description": "Projet de gestion de cours de couture et de location de matériel",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "twig/twig": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Votre Nom"
+        }
+    ]
+}
