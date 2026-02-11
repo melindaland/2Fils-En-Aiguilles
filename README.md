@@ -50,6 +50,3 @@ Suivez ces étapes pour faire fonctionner le projet sur votre ordinateur.
 - **Moteur de templates** : Twig 3
 - **Base de données** : MySQL (PDO)
 - **Design** : CSS3 & Bootstrap
-
----
-*Projet réalisé dans le cadre de la SAE 301 - Développement Web.*
