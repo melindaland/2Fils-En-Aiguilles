@@ -1,7 +1,5 @@
 # 2 Fils en Aiguilles
 
-**2 Fils en Aiguilles** est une application web de gestion pour un atelier de couture, permettant de gérer des cours et la location de matériel.
-
 ## Installation en local
 
 Suivez ces étapes pour faire fonctionner le projet sur votre ordinateur.
